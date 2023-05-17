@@ -10,7 +10,7 @@ const App: Component = () => {
         <img src={logo} class={styles.logo} alt="logo" />
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
-          こんにちは
+          こんにちは？
         </p>
         <a
           class={styles.link}
